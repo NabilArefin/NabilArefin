@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Nabil Arefin (Pial)
 
 ```diff
-+ CS Student @ East West University
++ CSE Student @ East West University
 + Full Stack Learner
 + UI/UX Enthusiast
 ```
