@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Nabil Arefin
+# 👋 Hi, I'm Nabil Arefin (Pial)
 
 ```diff
 + CS Student
