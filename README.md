@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Nabil Arefin (Pial)
 
 ```diff
-+ CS Student
++ CS Student @ East West University
 + Full Stack Learner
 + UI/UX Enthusiast
 ```
@@ -16,6 +16,7 @@
 
 ## 🚀 About Me
 
+- 🎓 B.Sc. in Computer Science & Engineering (CSE), **East West University**
 - 💻 Building modern web projects
 - 🎨 Love clean & cinematic UI
 - ⚡ Exploring full-stack development
@@ -34,15 +35,16 @@
 ## 🌐 Connect
 
 📧 arefin.nabil.988@gmail.com
+
 ---
 
 <div align="center">
 
 ```js
-while(alive){
-   learn();
-   build();
-   improve();
+while (alive) {
+  learn();
+  build();
+  improve();
 }
 ```
 
